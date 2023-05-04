@@ -46,6 +46,6 @@ article aside {
   border: 1px solid;
 }
 
-#rodape {
-  top: 10px;
+div {
+  margin-top: 200px;
 }
