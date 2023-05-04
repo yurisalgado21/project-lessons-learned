@@ -49,11 +49,3 @@ article aside {
 div {
   margin-top: 200px;
 }
-
-#listaDireita {
-  display: inline-block;
-}
-
-#listaEsquerda {
-  display: inline-block;
-}
