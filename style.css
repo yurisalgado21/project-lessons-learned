@@ -47,5 +47,15 @@ article aside {
 }
 
 div {
-  margin-top: 200px;
+  margin-top: 400px;
+}
+
+#secao_esquerda {
+  float: left;
+  width: 50%;
+}
+
+#secao_direita {
+  float: right;
+  width: 50%;
 }
